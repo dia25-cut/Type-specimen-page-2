@@ -1,0 +1,25 @@
+ 
+
+img{
+	width: 500px;
+}
+
+body{
+	font-family: Playwrite Deutschland Grundschrift;
+	background: beige;
+	display: flex;
+	justify-content: center;
+	line-height: 1.6;
+	font-family: "Playwrite DE Grund", cursive;
+	align-items: center;
+	flex-direction: column;
+}
+
+header {
+	text-align: center;
+}
+
+h1 {
+	font-size: 150px;
+	font-style: bold;
+}
